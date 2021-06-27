@@ -8,7 +8,7 @@ export const Container = styled.main`
 `;
 
 export const Content = styled.main`
-  margin-top: 10%;
+  margin-top: 2%;
   background-color: transparent;
   margin: 0 3rem 0 3rem;
   margin-top: 10%;
