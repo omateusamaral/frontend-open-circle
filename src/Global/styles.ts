@@ -17,7 +17,7 @@ export default createGlobalStyle`
    font-size: 14px;
    color: ${theme.colors.texts};
  }
-td,tr,h1{
+td,tr,h1,p{
   font-family: 'Rajdhani', sans-serif;
 }
  body .Toastify .Toastify__toast-container .Toastify__toast--success{
