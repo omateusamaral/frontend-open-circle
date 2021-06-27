@@ -8,10 +8,8 @@ export const Container = styled.main`
 `;
 
 export const Content = styled.main`
-  margin-top: 2%;
+  margin: 2%;
   background-color: transparent;
-  margin: 0 3rem 0 3rem;
-  margin-top: 10%;
   -webkit-box-shadow: 6px 14px 17px -1px rgba(0, 0, 0, 0.38);
   box-shadow: 6px 14px 17px -1px rgba(0, 0, 0, 0.38);
 `;
