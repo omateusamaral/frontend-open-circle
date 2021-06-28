@@ -120,7 +120,7 @@ export default function TableRow() {
                     }}
                     title="Editar"
                     iconName={
-                      <TiEdit color={`${theme.colors.primary}`} size={24} />
+                      <TiEdit color={`${theme.colors.primary}`} size={20} />
                     }
                   />
                 </Link>
@@ -139,7 +139,7 @@ export default function TableRow() {
                   iconName={
                     <TiDeleteOutline
                       color={`${theme.colors.delete}`}
-                      size={24}
+                      size={20}
                     />
                   }
                 />
